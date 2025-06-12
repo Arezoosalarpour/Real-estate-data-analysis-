@@ -1,5 +1,19 @@
 Real Estate Data Analysis Project
 
+
+## Introduction
+
+This project focuses on analyzing housing data from California to explore the key factors influencing real estate prices. Through a comprehensive data science workflow—ranging from initial exploration to preprocessing, visualization, and advanced statistical analysis—we aim to uncover trends and patterns in the housing market.
+
+This project is intended for educational and research purposes and demonstrates core data analysis and preprocessing techniques in Python.
+
+## Dataset Information
+
+This project uses the **California Housing** dataset, which is available through the `scikit-learn`.
+- Source: [Scikit-learn California Housing Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)  
+- Original Source: UCI Machine Learning Repository  
+- License: Public domain (educational/research use)
+
 ## Stage 1: Data Exploration
 
 ### 1.1 General Data Structure Review
