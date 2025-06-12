@@ -137,3 +137,4 @@ Real Estate Data Analysis Project
 • Final outlier control  
 • Validate value ranges  
 • Check class balance (if applicable)  
+remove wrong README
